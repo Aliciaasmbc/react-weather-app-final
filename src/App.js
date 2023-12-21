@@ -10,7 +10,7 @@ export default function App() {
       <div className="container">
         <Weather />
 
-        <p>
+        <footer>
           {" "}
           This project was coded with 💜 by Alicia Apreala and is{" "}
           <a
@@ -20,7 +20,7 @@ export default function App() {
           >
             Open-sourced on Github
           </a>
-        </p>
+        </footer>
       </div>
     </div>
   );
