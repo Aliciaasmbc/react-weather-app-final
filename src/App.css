@@ -1,6 +1,10 @@
 .App {
   max-width: 600px;
   margin: 30px auto;
+  background-image: url("./img/clouds.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: 1px solid rgb(5, 6, 77);
 }
 
 .App footer {

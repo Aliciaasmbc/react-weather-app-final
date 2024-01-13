@@ -12,7 +12,15 @@ export default function App() {
 
         <footer>
           {" "}
-          This project was coded with 💜 by Alicia Apreala and is{" "}
+          This project was coded with 💜 by{" "}
+          <a
+            href="https://www.linkedin.com/in/alicia-apreala-8a26a552/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Alicia Apreala
+          </a>{" "}
+          and is{" "}
           <a
             href="https://github.com/Aliciaasmbc/react-weather-app-final"
             target="_blank"
